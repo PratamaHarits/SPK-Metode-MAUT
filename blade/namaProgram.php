@@ -1,0 +1,1 @@
+<h3 class="text-center">Sistem Pendukung Keputusan Rekomendasi Kualitas Getah Karet Terbaik</h3>
